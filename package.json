@@ -1,0 +1,16 @@
+{
+  "name": "ebook-red-vinculo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "texto": "node scripts/parse.mjs && node scripts/normalize.mjs",
+    "libro": "node scripts/maqueta.mjs && node scripts/check.mjs src/libro.html && node scripts/render.mjs",
+    "qa": "node scripts/qa.mjs",
+    "pliego": "node scripts/pliego.mjs"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "puppeteer-core": "^25.9.0"
+  }
+}

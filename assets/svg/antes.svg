@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M78,232 C128,196 150,118 312,54" stroke="#A8563F" stroke-width="2.4"/>
+<g transform="translate(106.0,205.8) rotate(-94.0)"><path d="M0,0 C10.200000000000001,-13.0 22.2,-9.36 30.0,0 C22.2,9.36 10.200000000000001,13.0 0,0 Z" stroke="#A8563F" stroke-width="2"/><path d="M3.6,0 L25.8,0" stroke="#A8563F" stroke-width="1.4" opacity=".55"/></g>
+<g transform="translate(125.9,182.9) rotate(-3.1)"><path d="M0,0 C9.656,-12.4 21.016,-8.927999999999999 28.4,0 C21.016,8.927999999999999 9.656,12.4 0,0 Z" stroke="#A8563F" stroke-width="2"/><path d="M3.4,0 L24.4,0" stroke="#A8563F" stroke-width="1.4" opacity=".55"/></g>
+<g transform="translate(149.2,157.3) rotate(-91.7)"><path d="M0,0 C9.112,-11.8 19.832,-8.496 26.8,0 C19.832,8.496 9.112,11.8 0,0 Z" stroke="#A8563F" stroke-width="2"/><path d="M3.2,0 L23.0,0" stroke="#A8563F" stroke-width="1.4" opacity=".55"/></g>
+<g transform="translate(178.7,130.0) rotate(6.2)"><path d="M0,0 C8.568,-11.2 18.648,-8.064 25.2,0 C18.648,8.064 8.568,11.2 0,0 Z" stroke="#A8563F" stroke-width="2"/><path d="M3.0,0 L21.7,0" stroke="#A8563F" stroke-width="1.4" opacity=".55"/></g>
+<g transform="translate(217.2,101.7) rotate(-78.9)"><path d="M0,0 C8.024000000000001,-10.6 17.464000000000002,-7.632 23.6,0 C17.464000000000002,7.632 8.024000000000001,10.6 0,0 Z" stroke="#A8563F" stroke-width="2"/><path d="M2.8,0 L20.3,0" stroke="#A8563F" stroke-width="1.4" opacity=".55"/></g>
+<g transform="translate(267.4,73.6) rotate(20.0)"><path d="M0,0 C7.48,-10.0 16.28,-7.199999999999999 22.0,0 C16.28,7.199999999999999 7.48,10.0 0,0 Z" stroke="#A8563F" stroke-width="2"/><path d="M2.6,0 L18.9,0" stroke="#A8563F" stroke-width="1.4" opacity=".55"/></g>
+<circle cx="92" cy="242" r="2.1" fill="#D28C72" stroke="none"/>
+<circle cx="105" cy="239" r="2.1" fill="#D28C72" stroke="none"/>
+<circle cx="118" cy="236" r="2.1" fill="#D28C72" stroke="none"/>
+<circle cx="131" cy="233" r="2.1" fill="#D28C72" stroke="none"/>
+</svg>

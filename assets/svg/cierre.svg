@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="76" y="88" width="238" height="84" rx="20" fill="#EADCC8" stroke="none" opacity=".8"/>
+<circle cx="96" cy="108" r="4.6" stroke="#A8563F" stroke-width="1.8" opacity=".55"/>
+<circle cx="129" cy="108" r="4.6" stroke="#A8563F" stroke-width="1.8" opacity=".55"/>
+<circle cx="162" cy="108" r="4.6" stroke="#A8563F" stroke-width="1.8" opacity=".55"/>
+<circle cx="195" cy="108" r="4.6" stroke="#A8563F" stroke-width="1.8" opacity=".55"/>
+<circle cx="228" cy="108" r="4.6" stroke="#A8563F" stroke-width="1.8" opacity=".55"/>
+<circle cx="261" cy="108" r="4.6" stroke="#A8563F" stroke-width="1.8" opacity=".55"/>
+<circle cx="294" cy="108" r="4.6" stroke="#A8563F" stroke-width="1.8" opacity=".55"/>
+<circle cx="96" cy="152" r="5.4" fill="#A8563F" stroke="none"/>
+<circle cx="129" cy="152" r="5.4" fill="#A8563F" stroke="none"/>
+<circle cx="162" cy="152" r="5.4" fill="#A8563F" stroke="none"/>
+<circle cx="195" cy="152" r="5.4" fill="#A8563F" stroke="none"/>
+<circle cx="228" cy="152" r="5.4" fill="#A8563F" stroke="none"/>
+<circle cx="261" cy="152" r="5.4" fill="#A8563F" stroke="none"/>
+<circle cx="294" cy="152" r="5.4" fill="#A8563F" stroke="none"/>
+<path d="M90,186 H300" stroke="#A8563F" stroke-width="2.2"/>
+<path d="M300,186 l-9,-6 M300,186 l-9,6" stroke="#A8563F" stroke-width="2.2"/>
+</svg>

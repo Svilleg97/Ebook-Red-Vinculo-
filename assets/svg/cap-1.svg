@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M56,228 h44 v-26 h44 v-26 h44 v-26 L188,228 Z" fill="#EADCC8" stroke="none"/>
+<path d="M40,228 H350" stroke="#A8563F" stroke-width="1.5" opacity=".4"/>
+<path d="M56,228 h44 v-26 h44 v-26 h44 v-26 h44 v-26 h44 v-26 h44 v-26 h22" stroke="#A8563F" stroke-width="2.8"/>
+<g transform="translate(254.0,88)"><circle cx="0" cy="-9.0" r="8.5" stroke="#A8563F" stroke-width="2.2"/><path d="M-10.0,34.0 C-10.0,8.0 -4.0,2.0 0,2.0 C4.0,2.0 10.0,8.0 10.0,34.0" stroke="#A8563F" stroke-width="2.2"/></g>
+<circle cx="78.0" cy="221" r="2.5" fill="#D28C72" stroke="none" opacity="0.28"/>
+<circle cx="122.0" cy="195" r="2.5" fill="#D28C72" stroke="none" opacity="0.40"/>
+<circle cx="166.0" cy="169" r="2.5" fill="#D28C72" stroke="none" opacity="0.52"/>
+<circle cx="210.0" cy="143" r="2.5" fill="#D28C72" stroke="none" opacity="0.64"/>
+<circle cx="254.0" cy="117" r="2.5" fill="#D28C72" stroke="none" opacity="0.76"/>
+<circle cx="298.0" cy="91" r="2.5" fill="#D28C72" stroke="none" opacity="0.88"/>
+</svg>

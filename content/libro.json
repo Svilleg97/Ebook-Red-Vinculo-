@@ -1,0 +1,1460 @@
+{
+  "chapters": [
+    {
+      "marker": "ANTES DE EMPEZAR",
+      "id": "antes",
+      "num": null,
+      "kicker": "Antes de empezar",
+      "title": "Por qué lo que ya intentaste no te alcanzó",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Este libro no empieza suponiendo que no sabes nada. Empieza suponiendo lo contrario."
+        },
+        {
+          "type": "p",
+          "text": "Ya leíste. Ya viste videos. Ya te dijeron que respires, que cuentes hasta diez, que valides sus emociones, que no grites. Probablemente compraste algún libro que no terminaste. Y algo de todo eso lo intentaste de verdad."
+        },
+        {
+          "type": "p",
+          "text": "Y aun así no te funcionó. Al menos no siempre. Al menos no el martes a las siete de la noche, cuando llevabas doce horas de pie y él se tiró al piso otra vez."
+        },
+        {
+          "type": "p",
+          "text": "Y hay una escena que se repite en miles de casas, casi con el mismo guion:"
+        },
+        {
+          "type": "p",
+          "text": "Le avisas antes. Le nombras la emoción. Sostienes la regla. Y aun así, cuando insiste por décima vez, pierdes la calma, gritas y castigas. Y después te quedas repitiendo la regla, hablando y hablando, tratando de arreglar algo que ya se dañó."
+        },
+        {
+          "type": "p",
+          "text": "Ahí se hizo todo bien. Se avisó. Se nombró la emoción. Se sostuvo la regla. Y aun así hubo explosión."
+        },
+        {
+          "type": "p",
+          "text": "No falló la técnica. Y no fallaste tú."
+        },
+        {
+          "type": "h2",
+          "text": "Lo que pasa en cuatro segundos y lo que pasa en veintitrés horas"
+        },
+        {
+          "type": "p",
+          "text": "Casi todo lo que existe sobre crianza trabaja en una ventana muy angosta: el momento en que el conflicto ya arrancó. Qué decir cuando llora, qué hacer cuando pega, cómo responder al berrinche. Sirve, y mucho. Pero se aplica en cuatro segundos, y esos cuatro segundos dependen de todo lo que pasó antes."
+        },
+        {
+          "type": "p",
+          "text": "Dependen de si dormiste. De si comiste. De si es la primera vez que se lo dices hoy o la novena. De si ese conflicto era evitable y nadie lo evitó. De si tienes a alguien al lado o estás sosteniendo la casa sola."
+        },
+        {
+          "type": "p",
+          "text": "Una herramienta que se aplica desde el agotamiento total no es la misma herramienta. Es la misma técnica, en un cuerpo que ya no tiene con qué."
+        },
+        {
+          "type": "p",
+          "text": "Este libro no trabaja en esos cuatro segundos. Trabaja en las otras veintitrés horas."
+        },
+        {
+          "type": "h2",
+          "text": "Qué vas a encontrar acá"
+        },
+        {
+          "type": "p",
+          "text": "Cuatro herramientas. Ninguna es una técnica para el momento del berrinche, porque de esas ya tienes."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "El Mapa de los Siete Días. Para dejar de pelear contra «mi hijo no hace caso» y empezar a trabajar con algo mucho más manejable.",
+            "Los Quince Minutos que No se Negocian. La más difícil del libro, y la que más cambia las cosas.",
+            "La Reparación. Qué se hace después del grito, que es donde el vínculo de verdad se construye.",
+            "Las Rutinas Ancla. Para que los conflictos que se repiten todos los días dejen de repetirse todos los días."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Cómo leerlo"
+        },
+        {
+          "type": "p",
+          "text": "En orden. Cada herramienta se apoya en la anterior y la cuarta no funciona sin la primera."
+        },
+        {
+          "type": "p",
+          "text": "Pero no lo leas todo hoy y arranques mañana con las cuatro. Eso no funciona y lo sabes: ya has empezado cosas así. Lee el capítulo uno y dos, haz el registro de una semana, y sigue."
+        },
+        {
+          "type": "p",
+          "text": "Y hay algo que puedes hacer esta misma noche, sin registro y sin preparación. Está al final del capítulo uno."
+        }
+      ]
+    },
+    {
+      "marker": "UNO",
+      "id": "cap-1",
+      "num": "uno",
+      "kicker": "Capítulo uno",
+      "title": "Las tres razones por las que no te funcionó",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Antes de darte nada nuevo, quiero explicarte por qué lo anterior no alcanzó. Porque si no entiendes esto, lo de este libro también te va a fallar."
+        },
+        {
+          "type": "h2",
+          "text": "Razón 1: llegaste tarde a tu propia escalera"
+        },
+        {
+          "type": "p",
+          "text": "La rabia no aparece de un golpe. Sube por escalones, y cuando ya estás arriba cuesta muchísimo bajar."
+        },
+        {
+          "type": "p",
+          "text": "El problema es este: la mayoría de las veces, cuando el conflicto empieza, tú ya no estás en el primer escalón. Estás en el sexto."
+        },
+        {
+          "type": "p",
+          "text": "Llevas desde las cinco de la mañana. Le has dicho lo mismo cuatro veces. Hubo un problema en el trabajo. No has comido bien. Entonces él tira el vaso, y a ti te parece que reaccionaste al vaso. No reaccionaste al vaso. Reaccionaste a todo lo que ya venías cargando, y el vaso solo fue lo último."
+        },
+        {
+          "type": "p",
+          "text": "Por eso «respira antes de responder» a veces no sirve para nada. Detenerte en el escalón dos funciona. Detenerte en el escalón ocho es pedirle a un carro sin frenos que pare en la mitad de una bajada."
+        },
+        {
+          "type": "p",
+          "text": "Lo que hay que trabajar no es el freno. Es no llegar a la bajada con el tanque en rojo."
+        },
+        {
+          "type": "h2",
+          "text": "Razón 2: la usaste esperando que él se calmara"
+        },
+        {
+          "type": "p",
+          "text": "Esta es la más difícil de aceptar."
+        },
+        {
+          "type": "p",
+          "text": "Cuando respiras hondo esperando que el berrinche pare, la pausa puede dejar de sentirse como una pausa y convertirse en otra técnica de control. A veces los niños perciben esa expectativa: sienten que los estás esperando, no acompañando."
+        },
+        {
+          "type": "p",
+          "text": "Y cuando no funciona, pasa lo que ya conoces: te frustras el doble, porque además de la pataleta ahora sientes que hasta lo que aprendiste te falló."
+        },
+        {
+          "type": "p",
+          "text": "La pausa no es para que él se calme. Es para que tú no empeores la escena."
+        },
+        {
+          "type": "p",
+          "text": "Ese es todo su alcance, y no es poco. Pero si le pides que además apague el berrinche, siempre te va a decepcionar."
+        },
+        {
+          "type": "h2",
+          "text": "Razón 3: la sostuviste sola"
+        },
+        {
+          "type": "p",
+          "text": "Muchas mujeres crían solas, o con un papá que está poco. Y muchísimas más tienen a alguien en la casa que hace lo contrario de lo que ellas acaban de decir: la abuela, la tía, la pareja."
+        },
+        {
+          "type": "p",
+          "text": "Una herramienta cuesta energía. Y si eres la única que la aplica, mientras otro adulto la desarma, no estás usando una herramienta: estás remando contra la corriente y contra alguien que rema al revés."
+        },
+        {
+          "type": "p",
+          "text": "El capítulo seis es entero sobre esto."
+        },
+        {
+          "type": "h2",
+          "text": "Y una cosa sobre la culpa"
+        },
+        {
+          "type": "p",
+          "text": "La culpa se siente como responsabilidad, pero funciona distinto. La responsabilidad te lleva a hacer algo. La culpa te lleva a compensar."
+        },
+        {
+          "type": "p",
+          "text": "El ciclo casi siempre es el mismo. Gritas. Te sientes pésimo. Para compensar, cedes en algo que habías dicho que no. El niño aprende que después del grito viene el premio. Al día siguiente hay más conflicto, no menos. Y tú tienes más culpa."
+        },
+        {
+          "type": "p",
+          "text": "La culpa no te está haciendo mejor mamá. Te está costando los límites."
+        },
+        {
+          "type": "p",
+          "text": "En el capítulo cuatro vas a encontrar qué hacer con eso, en concreto."
+        },
+        {
+          "type": "h2",
+          "text": "Empieza esta noche: nombra tu escalón en voz alta"
+        },
+        {
+          "type": "p",
+          "text": "No necesitas terminar el libro para hacer esto. Es una sola frase, una vez al día, delante de tu hijo:"
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Estoy cansada y me estoy poniendo de mal genio. No es por ti.»",
+            "«Estoy con mucho afán. Necesito un minuto.»"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Hace tres cosas a la vez. Te obliga a notar en qué escalón estás, que es lo primero que se pierde. Le enseña a tu hijo que los estados se nombran en vez de descargarse, y eso se aprende por imitación mucho antes que por explicación. Y le quita de encima la idea de que él es la causa de tu ánimo."
+        },
+        {
+          "type": "p",
+          "text": "No tienes que hacerlo perfecto ni todos los días. Una vez al día, en voz alta, basta para empezar."
+        }
+      ]
+    },
+    {
+      "marker": "HERRAMIENTA 1",
+      "id": "cap-2",
+      "num": "dos",
+      "kicker": "Capítulo dos",
+      "tool": "Herramienta 1",
+      "title": "El Mapa de los Siete Días",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "«Mi hijo no me hace caso» es una frase con la que no se puede trabajar. Es demasiado grande, es sobre él, y no dice qué hacer el martes."
+        },
+        {
+          "type": "p",
+          "text": "«Los martes a las seis y media, cuando llego del trabajo sin haber comido, no tengo con qué sostener la hora del baño» sí es una frase con la que se puede trabajar."
+        },
+        {
+          "type": "p",
+          "text": "El Mapa sirve para pasar de la primera a la segunda. Es lo primero porque todo lo demás depende de lo que encuentres acá."
+        },
+        {
+          "type": "h2",
+          "text": "Una palabra que voy a usar todo el libro: ventana"
+        },
+        {
+          "type": "p",
+          "text": "Cuando digo ventana me refiero a esto:"
+        },
+        {
+          "type": "p",
+          "text": "Una ventana es una franja del día donde los conflictos se repiten. Misma hora, misma situación, casi el mismo guion. No es un momento suelto: es el que vuelve una y otra vez."
+        },
+        {
+          "type": "p",
+          "text": "Casi todas las casas tienen dos o tres. La hora de alistarse. El regreso a la casa. La comida. La hora de dormir."
+        },
+        {
+          "type": "p",
+          "text": "Tu ventana número uno es la que más se repite en tu semana. No la que más te dolió: la que más veces aparece."
+        },
+        {
+          "type": "p",
+          "text": "Esa ventana es la que vas a trabajar en los capítulos que siguen. Una sola. Por eso lo primero es encontrarla, y para eso sirve el registro de esta semana."
+        },
+        {
+          "type": "h2",
+          "text": "Qué se registra"
+        },
+        {
+          "type": "p",
+          "text": "Durante siete días, cada vez que haya un conflicto, anota cinco cosas. Tarda menos de un minuto y se hace después, no durante."
+        },
+        {
+          "type": "table-raw",
+          "cells": [
+            "Campo del registro",
+            "Qué anotar",
+            "Ejemplo",
+            "Día y hora",
+            "El día y la hora aproximada",
+            "Martes, 6:40 p.m.",
+            "Situación",
+            "Qué se estaba haciendo cuando empezó",
+            "Apagar la tablet para comer",
+            "Mi estado 1-10",
+            "Cuánta reserva te quedaba a ti. 10 es entera, 1 es en las últimas",
+            "3",
+            "Qué hice",
+            "Sin adornos y sin adjetivos sobre ti misma",
+            "Se la quité de la mano y le grité",
+            "Cómo terminó",
+            "En qué acabó la escena",
+            "Lloró veinte minutos, comimos peleando",
+            "Dos advertencias, porque de esto depende que sirva."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "El dato de «mi estado» es el más importante y el que más se olvida. No es cómo te sentiste después del conflicto. Es con cuánta reserva llegabas antes de que empezara."
+        },
+        {
+          "type": "p",
+          "text": "Y no anotes juicios sobre ti. «Se la quité y le grité» sirve. «Fui una mamá horrible» no sirve para nada, y además te va a hacer abandonar el registro al tercer día."
+        },
+        {
+          "type": "h2",
+          "text": "Cómo leer lo que encontraste"
+        },
+        {
+          "type": "p",
+          "text": "Al séptimo día, siéntate quince minutos con las hojas y busca tres cosas."
+        },
+        {
+          "type": "h3",
+          "text": "Primero: las horas"
+        },
+        {
+          "type": "p",
+          "text": "Resalta con color todas las horas que anotaste. Casi siempre pasa lo mismo: los conflictos no están repartidos a lo largo del día. Se apelotonan en dos o tres franjas, y suelen ser las mismas de todas las familias."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "La mañana, entre levantarse y salir",
+            "El regreso a casa, cuando todos llegan cansados",
+            "La hora de la comida",
+            "La noche, entre el final del juego y la cama"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Fíjate en qué tienen en común: son transiciones. Momentos donde algo se acaba y empieza otra cosa. Casi ninguna pelea es por el objeto. Son por el cambio."
+        },
+        {
+          "type": "h3",
+          "text": "Segundo: tu número"
+        },
+        {
+          "type": "p",
+          "text": "Ahora mira qué anotaste en «mi estado» en los conflictos que peor terminaron. Vas a ver algo incómodo y liberador al mismo tiempo: los peores episodios casi nunca coinciden con lo que el niño hizo. Coinciden con tu número bajo."
+        },
+        {
+          "type": "p",
+          "text": "La misma tablet quitada con reserva en 7 termina en protesta y ya. Quitada con reserva en 2 termina en gritos."
+        },
+        {
+          "type": "p",
+          "text": "No es que seas inconsistente. Es que estabas en otro cuerpo."
+        },
+        {
+          "type": "h3",
+          "text": "Tercero: tu ventana número uno"
+        },
+        {
+          "type": "p",
+          "text": "Busca la situación que aparece más veces anotada casi con las mismas palabras. Esa es tu ventana número uno."
+        },
+        {
+          "type": "p",
+          "text": "Anótala en el recuadro que está al final del registro. Va a ser la protagonista del resto del libro, así que escríbela concreta: no «las peleas», sino «apagar la tablet para comer, hacia las 6:30 p.m.»."
+        },
+        {
+          "type": "p",
+          "text": "Una sola. No cinco."
+        },
+        {
+          "type": "h2",
+          "text": "Lo que la gente descubre y no esperaba"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Que hay muchos menos conflictos de los que sentía. La sensación de «todo el día peleando» casi siempre resulta ser tres o cuatro momentos concentrados.",
+            "Que los peores días no fueron los que tenían más conflictos, sino los que tenían el número más bajo.",
+            "Que hay un conflicto que ocurre casi todos los días y que nadie había nombrado nunca."
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "h2",
+          "text": "Tu registro"
+        },
+        {
+          "type": "p",
+          "text": "Imprime esta página, o cópiala en un cuaderno. Un cuaderno funciona igual de bien."
+        },
+        {
+          "type": "table-raw",
+          "cells": [
+            "Día y hora",
+            "Situación",
+            "Mi estado 1-10",
+            "Qué hice",
+            "Cómo terminó",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Al terminar la semana, completa esto:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "La situación que más se repitió en mi semana fue:"
+        },
+        {
+          "type": "raya"
+        },
+        {
+          "type": "h2",
+          "text": "Suele pasar hacia las: ______________   Mi estado promedio ahí: _______"
+        },
+        {
+          "type": "p",
+          "text": "Esa es mi ventana número uno. Es la que voy a trabajar con las herramientas de los capítulos siguientes."
+        }
+      ]
+    },
+    {
+      "marker": "HERRAMIENTA 2",
+      "id": "cap-3",
+      "num": "tres",
+      "kicker": "Capítulo tres",
+      "tool": "Herramienta 2",
+      "title": "Los Quince Minutos que No se Negocian",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Esta es la herramienta más importante del libro y la que más se abandona. Te la voy a explicar completa, incluido por qué es tan difícil."
+        },
+        {
+          "type": "h2",
+          "text": "Qué es"
+        },
+        {
+          "type": "p",
+          "text": "Quince minutos al día en los que tu hijo manda. Él elige qué hacer. Tú no das órdenes, no haces preguntas, no corriges y no enseñas. Solo estás y describes lo que él hace."
+        },
+        {
+          "type": "p",
+          "text": "Eso es todo. Y es lo más difícil de este libro."
+        },
+        {
+          "type": "h2",
+          "text": "Por qué funciona"
+        },
+        {
+          "type": "p",
+          "text": "Piensa en la atención como en una cuenta bancaria a la que tu hijo tiene acceso. Él necesita atención de la misma manera que necesita comer, y va a conseguirla por donde pueda."
+        },
+        {
+          "type": "p",
+          "text": "Ahora piensa en un día normal. ¿Cuándo recibe tu atención completa, con los ojos puestos en él y sin celular? Casi siempre: cuando hace algo mal."
+        },
+        {
+          "type": "p",
+          "text": "Cuando obedece, tú aprovechas para hacer otra cosa, y con toda razón. Cuando pega, grita o rompe algo, ahí sí llega toda tu atención de golpe."
+        },
+        {
+          "type": "p",
+          "text": "Él no razona esto. Lo aprende como se aprende dónde queda el interruptor de la luz: probando. Y lo que aprende es que la conducta difícil funciona."
+        },
+        {
+          "type": "p",
+          "text": "Los quince minutos abren otra puerta. Una donde no tiene que pelear para conseguir lo que necesita. Cuando esa puerta existe y es confiable, la otra deja de ser tan necesaria."
+        },
+        {
+          "type": "p",
+          "text": "Esto no es una idea nueva ni bonita. El juego dirigido por el niño es de las prácticas con más respaldo en los programas de acompañamiento a padres en el mundo. Y no requiere plata, ni juguetes, ni tiempo largo."
+        },
+        {
+          "type": "h2",
+          "text": "Las siete reglas"
+        },
+        {
+          "type": "h3",
+          "text": "1. Él elige"
+        },
+        {
+          "type": "p",
+          "text": "Lo que sea, mientras no haya pantalla. Carritos, muñecas, bloques, dibujar, una caja de cartón. Si quiere hacer lo mismo quince días seguidos, se hace lo mismo quince días seguidos."
+        },
+        {
+          "type": "h3",
+          "text": "2. El celular, en otro cuarto"
+        },
+        {
+          "type": "p",
+          "text": "No basta con ponerlo boca abajo sobre la mesa. Un celular que está ahí, aunque no lo mires, sigue diciendo que hay algo esperando turno. Vibra, se ilumina, y tú miras de reojo aunque no quieras."
+        },
+        {
+          "type": "p",
+          "text": "Déjalo en otra habitación durante los quince minutos. Es la regla más fácil de cumplir y la que más se rompe."
+        },
+        {
+          "type": "h3",
+          "text": "3. Sin preguntas"
+        },
+        {
+          "type": "p",
+          "text": "Ninguna. Ni «¿de qué color es?», ni «¿qué estás haciendo?», ni «¿cuál te gusta más?». Cada pregunta es una manera suave de dirigir, y además muchas son evaluaciones disfrazadas."
+        },
+        {
+          "type": "h3",
+          "text": "4. Sin órdenes"
+        },
+        {
+          "type": "p",
+          "text": "Ni siquiera de las amables. «Pásame el azul» es una orden. «Ponlo aquí mejor» es una orden. Durante quince minutos no hay ninguna."
+        },
+        {
+          "type": "h3",
+          "text": "5. Sin correcciones"
+        },
+        {
+          "type": "p",
+          "text": "Si pone el techo de la casa al revés, el techo se queda al revés. Si el caballo vuela, el caballo vuela. No es el momento de enseñar."
+        },
+        {
+          "type": "h3",
+          "text": "6. Narra lo que hace"
+        },
+        {
+          "type": "p",
+          "text": "Esta es la parte activa y al principio se siente ridícula. Vas describiendo, como un relator:"
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Pusiste el bloque rojo encima del azul.»",
+            "«Estás haciendo que el carro suba la loma.»",
+            "«Escogiste el marcador verde para el sol.»"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Se siente tonto durante tres días. Después deja de sentirse tonto, porque vas a ver lo que hace: narrar es la única forma de atención que no evalúa, no pide y no dirige. Es pura presencia, dicha en voz alta. Para un niño eso es enorme."
+        },
+        {
+          "type": "h3",
+          "text": "7. Reconoce lo concreto"
+        },
+        {
+          "type": "p",
+          "text": "Cuando reconozcas algo, que sea de lo que hizo, no de lo que es."
+        },
+        {
+          "type": "p",
+          "text": "Sí: «Lo intentaste tres veces hasta que quedó parado.»"
+        },
+        {
+          "type": "p",
+          "text": "No: «Eres muy inteligente.»"
+        },
+        {
+          "type": "p",
+          "text": "Lo primero le enseña que el esfuerzo sirve. Lo segundo le enseña que hay una etiqueta que puede perder, y los niños que temen perder la etiqueta dejan de intentar cosas difíciles."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "h2",
+          "text": "Qué va a pasar los primeros días"
+        },
+        {
+          "type": "p",
+          "text": "Te preparo, porque si no sabes esto lo vas a abandonar en la primera semana."
+        },
+        {
+          "type": "h2",
+          "text": "Te va a poner a prueba"
+        },
+        {
+          "type": "p",
+          "text": "Los primeros días puede pasar que la conducta difícil aumente antes de mejorar. Puede hacer cosas que antes te sacaban de casillas, como si estuviera comprobando si esta puerta nueva también se cierra cuando se porta mal. Está averiguando si esto es de verdad."
+        },
+        {
+          "type": "p",
+          "text": "Si tú sostienes los quince minutos igual, aprende que sí. Ahí empieza a cambiar."
+        },
+        {
+          "type": "h2",
+          "text": "Va a pedir más"
+        },
+        {
+          "type": "p",
+          "text": "«Un ratico más.» Y va a doler decirle que no. Pero el límite es parte de la herramienta: es un rato con principio y con final, no un premio negociable."
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Se acabaron los quince minutos. Mañana volvemos, a la misma hora.»"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Que se acabe y vuelva mañana es lo que lo hace confiable."
+        },
+        {
+          "type": "h2",
+          "text": "Te va a costar a ti más que a él"
+        },
+        {
+          "type": "p",
+          "text": "Vas a querer enseñar. Vas a querer aprovechar el momento para hablar de lo de la mañana. Vas a sentir que estás perdiendo el tiempo mientras hay loza sin lavar."
+        },
+        {
+          "type": "p",
+          "text": "No estás perdiendo el tiempo. Estás haciendo el trabajo que hace que la hora del baño no sea una guerra."
+        },
+        {
+          "type": "h2",
+          "text": "Y ahora lo importante: si no puedes"
+        },
+        {
+          "type": "p",
+          "text": "Sé perfectamente que hay semanas en las que quince minutos diarios no existen. Si crías sola, si tienes turno, si tienes tres hijos, si estás enferma."
+        },
+        {
+          "type": "p",
+          "text": "Este capítulo no está aquí para agregarte una tarea que vas a incumplir y que después te va a servir de prueba de que no eres suficiente. Ya tienes suficientes de esas."
+        },
+        {
+          "type": "p",
+          "text": "Entonces el piso mínimo es este:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Diez minutos, no quince.",
+            "Cinco días a la semana, no siete.",
+            "Con un solo hijo a la vez si tienes varios. Rota los días."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Y para las semanas imposibles, existe la versión de tres minutos. Tres minutos completos, sin celular, narrando lo que hace. Tres minutos de presencia real valen más que treinta de estar en el mismo cuarto mirando el teléfono."
+        },
+        {
+          "type": "p",
+          "text": "Lo que cuenta no es la cantidad. Es que sea predecible y que no dependa de cómo se portó."
+        },
+        {
+          "type": "p",
+          "text": "Última regla, y es la que más se rompe: los quince minutos no se quitan como castigo. Nunca. En el momento en que se vuelven negociables, dejan de ser el lugar seguro y pasan a ser una moneda más."
+        },
+        {
+          "type": "h2",
+          "text": "Según la edad"
+        },
+        {
+          "type": "table-raw",
+          "cells": [
+            "Edad",
+            "Cómo se ve",
+            "0 a 2 años",
+            "Sigue lo que él mire o toque. Imita sus sonidos. Narra con frases muy cortas. Diez minutos ya es mucho a esta edad.",
+            "3 a 5 años",
+            "La edad de oro para esto. Juego simbólico, bloques, dibujar. Narrar funciona perfecto y se nota rápido.",
+            "6 a 9 años",
+            "Juegos con reglas, armar cosas, dibujar. Si es un juego de mesa, se juega sin enseñarle a jugar mejor y sin dejarse ganar a propósito.",
+            "10 en adelante",
+            "Narrar suena raro a esta edad. Cambia a hacer algo juntos que él elija, sin preguntas de interrogatorio y sin aprovechar para hablar del colegio.",
+            "Si sientes que prefiere al papá"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Es una de las cosas que más se piensan y menos se dicen en voz alta. Que tu hijo no te quiere igual. Que prefiere al papá. Que se relaciona bien con todo el mundo menos contigo."
+        },
+        {
+          "type": "p",
+          "text": "Vale la pena mirar algo. En la mayoría de las casas hay un adulto que sostiene la estructura y otro que aparece para lo bueno. El que sostiene es el que dice que hay que bañarse, apagar, comer, dormir. El otro llega y juega."
+        },
+        {
+          "type": "p",
+          "text": "El niño no quiere menos al primero. Asocia al primero con las exigencias, que es distinto."
+        },
+        {
+          "type": "p",
+          "text": "Los quince minutos existen precisamente para eso: para que tú también tengas un rato donde no eres la que exige. Y esta es la herramienta que más rápido cambia esa sensación."
+        }
+      ]
+    },
+    {
+      "marker": "HERRAMIENTA 3",
+      "id": "cap-4",
+      "num": "cuatro",
+      "kicker": "Capítulo cuatro",
+      "tool": "Herramienta 3",
+      "title": "La Reparación",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Vas a volver a gritar."
+        },
+        {
+          "type": "p",
+          "text": "Prefiero decírtelo así, porque cualquier libro que te prometa lo contrario te está mintiendo y además te está preparando para sentirte peor la próxima vez."
+        },
+        {
+          "type": "p",
+          "text": "La pregunta útil no es cómo no volver a gritar nunca. Es qué se hace en los veinte minutos siguientes."
+        },
+        {
+          "type": "p",
+          "text": "El vínculo no se construye en los momentos buenos. Se construye en la vuelta después del mal momento."
+        },
+        {
+          "type": "p",
+          "text": "Piénsalo desde donde él lo vive. Si tu hijo solo ve la parte fea y nunca ve cómo se arregla, lo que aprende es que las relaciones se dañan y ya. Si ve la parte fea y después te ve volver, aprende otra cosa completamente distinta: que un mal momento no acaba con el cariño, y que uno puede regresar después de haberla embarrado."
+        },
+        {
+          "type": "p",
+          "text": "Eso le va a servir toda la vida, con sus amigos, con su pareja, y algún día con sus propios hijos."
+        },
+        {
+          "type": "p",
+          "text": "La reparación tiene dos tiempos, y van en este orden."
+        },
+        {
+          "type": "h2",
+          "text": "Tiempo 1: contigo (los primeros veinte minutos)"
+        },
+        {
+          "type": "p",
+          "text": "Antes de ir donde él, tienes que salir del ciclo de culpa. Si vas con la culpa encima, no vas a reparar: vas a compensar. Y compensar significa ceder en algo, lo cual empeora todo mañana."
+        },
+        {
+          "type": "h2",
+          "text": "Nombra lo que pasó, sin adjetivos sobre ti"
+        },
+        {
+          "type": "p",
+          "text": "En voz alta o mentalmente, una sola frase, en pasado y en hechos:"
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Le grité cuando no quiso apagar la tablet.»"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "No: «soy una mamá horrible», «no sirvo para esto», «lo estoy dañando». Eso no es honestidad, es castigo. Y el castigo no cambia conductas, ni en los niños ni en ti."
+        },
+        {
+          "type": "h2",
+          "text": "Separa lo que hiciste de lo que eres"
+        },
+        {
+          "type": "p",
+          "text": "Gritar es algo que hiciste. No es quién eres. Esa distinción parece un juego de palabras y no lo es: mientras el problema sea lo que hiciste, se puede cambiar. Cuando el problema pasa a ser lo que eres, no hay nada que hacer y el cerebro deja de buscar salidas."
+        },
+        {
+          "type": "h2",
+          "text": "Elige una sola cosa concreta"
+        },
+        {
+          "type": "p",
+          "text": "No «voy a tener más paciencia». Eso no es una acción, es un deseo."
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Mañana aviso cinco minutos antes de apagar.»",
+            "«Mañana como algo antes de recogerlo.»"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Y aquí es donde se conecta con el Mapa: la cosa concreta casi siempre sale de tu ventana número uno."
+        },
+        {
+          "type": "h2",
+          "text": "Tiempo 2: con él"
+        },
+        {
+          "type": "p",
+          "text": "Primero, el momento. No lo hagas de inmediato, porque ninguno de los dos está todavía en condiciones. Pero tampoco lo dejes para el otro día: se hace el mismo día, cuando ya los dos estén más tranquilos. Sirve el baño, el rato antes de dormir, o el camino en el carro."
+        },
+        {
+          "type": "p",
+          "text": "Después, los tres movimientos. Y en ninguno de los tres aparece la palabra «pero»."
+        },
+        {
+          "type": "h3",
+          "text": "Uno. Reconoce sin justificar"
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Hace un rato te grité. Eso no estuvo bien.»"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Fíjate en lo que no está: no está «te grité porque tú no me hiciste caso». Eso no es una disculpa, es una acusación con introducción amable. Y el niño lo entiende perfecto: entiende que la culpa sigue siendo suya."
+        },
+        {
+          "type": "p",
+          "text": "El límite se sostiene igual. Reconocer el grito no anula la regla. Son cosas separadas y él puede con las dos."
+        },
+        {
+          "type": "h3",
+          "text": "Dos. Nombra lo que él sintió"
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Te asustaste.»",
+            "«Te dio rabia y te pusiste triste.»"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "No le preguntes cómo se sintió. Nómbralo tú, aunque le atines a medias. Si te equivocas, él te corrige, y eso ya es una conversación."
+        },
+        {
+          "type": "h3",
+          "text": "Tres. Di qué vas a hacer distinto"
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«La próxima vez voy a avisarte antes, para no llegar gritando.»"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Concreto y pequeño. Y no prometas que no vuelve a pasar. Va a volver a pasar, y cuando pase, él va a aprender que tus promesas no valen. Prometer lo que no puedes cumplir hace más daño que el grito."
+        },
+        {
+          "type": "h2",
+          "text": "Lo que no se hace"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "No llores pidiéndole perdón de manera que él termine consolándote. Eso le pone encima un peso que no le toca.",
+            "No lo compenses con dulces, pantalla o levantándole el castigo. Eso enseña que después del grito hay premio.",
+            "No lo hagas cinco veces al día. Si estás reparando una y otra vez en el mismo día, la reparación no es lo único que hay que mirar: vuelve al Mapa, revisa tu reserva y trabaja sobre la ventana donde más se repite.",
+            "No le pidas que él también pida perdón en ese momento. La reparación es tuya. La de él es otro tema y es otro día."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Si te rechaza"
+        },
+        {
+          "type": "p",
+          "text": "Puede que te diga que no, que se voltee, que se tape con la cobija. Es normal, sobre todo si nunca antes había pasado esto."
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Está bien. Yo me quedo por acá si me necesitas.»"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Y te quedas cerca sin insistir. Que él pueda rechazarte y tú no te vayas es, en sí mismo, la reparación completa. A veces esa es la versión más potente de todas."
+        },
+        {
+          "type": "h2",
+          "text": "Frases por edad"
+        },
+        {
+          "type": "table-raw",
+          "cells": [
+            "Edad",
+            "Cómo suena",
+            "2 a 3 años",
+            "«Mamá gritó. Te asustaste. Ya pasó.» Corto, con contacto físico si lo acepta. A esta edad el tono importa mucho más que las palabras.",
+            "4 a 6 años",
+            "«Te grité y no estuvo bien. Te dio susto. La próxima vez te aviso antes de apagar.»",
+            "7 a 10 años",
+            "«Perdí la calma y te grité. Eso fue mío, no tuyo. La regla del televisor sigue igual, y la forma en que te lo dije no estuvo bien.»",
+            "11 en adelante",
+            "Más corto y sin ceremonia. «Me pasé. Perdón.» A esta edad, un discurso largo se lee como manipulación.",
+            "________________"
+          ]
+        }
+      ]
+    },
+    {
+      "marker": "HERRAMIENTA 4",
+      "id": "cap-5",
+      "num": "cinco",
+      "kicker": "Capítulo cinco",
+      "tool": "Herramienta 4",
+      "title": "Las Rutinas Ancla",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Aquí se cierra el círculo. Tienes tu ventana número uno del capítulo dos. Ahora le vas a poner una estructura para que deje de ser una pelea diaria."
+        },
+        {
+          "type": "h2",
+          "text": "La idea"
+        },
+        {
+          "type": "p",
+          "text": "Muchos conflictos con niños no son solamente por el objeto. También tienen que ver con la sorpresa y con lo difícil que puede ser pasar de una actividad a otra."
+        },
+        {
+          "type": "p",
+          "text": "Un niño de cinco años no maneja el tiempo como tú. Para él no existe «en veinte minutos». Existe el ahora, y el ahora se está acabando cuando alguien lo decide sin avisar."
+        },
+        {
+          "type": "p",
+          "text": "Una rutina ancla es una secuencia fija, siempre igual, que él puede anticipar. Y aquí está lo que la hace poderosa:"
+        },
+        {
+          "type": "p",
+          "text": "Cuando la rutina decide, tú dejas de ser la que decide. Y él deja de pelear contigo para empezar a pelear con una estructura. Eso es mucho menos personal, y muchísimo menos desgastante para el vínculo."
+        },
+        {
+          "type": "h2",
+          "text": "Cómo se arma"
+        },
+        {
+          "type": "p",
+          "text": "Toma tu ventana número uno. Solo esa. Y aplica cuatro cosas."
+        },
+        {
+          "type": "h3",
+          "text": "1. Una secuencia fija de tres a cinco pasos"
+        },
+        {
+          "type": "p",
+          "text": "Siempre en el mismo orden, todos los días. El orden es más importante que el contenido."
+        },
+        {
+          "type": "h3",
+          "text": "2. Un aviso que él pueda percibir"
+        },
+        {
+          "type": "p",
+          "text": "Si todavía no lee la hora, el aviso tiene que ser algo que vea o escuche: un temporizador, una canción, un reloj de arena, la alarma del celular."
+        },
+        {
+          "type": "p",
+          "text": "Esto no es un detalle: cuando quien corta es la alarma y no tú, el conflicto deja de ser contra ti."
+        },
+        {
+          "type": "h3",
+          "text": "3. Algo visible"
+        },
+        {
+          "type": "p",
+          "text": "Una hoja pegada en la pared con la secuencia. Con dibujos si no lee. Hecha por él si tiene más de cuatro años, porque lo que uno ayuda a hacer lo defiende."
+        },
+        {
+          "type": "h3",
+          "text": "4. Dos semanas antes de juzgar"
+        },
+        {
+          "type": "p",
+          "text": "Una rutina nueva empeora las cosas los primeros días, igual que los quince minutos. Está probando si esto también se cae. Dale dos semanas antes de decidir si funciona."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "h2",
+          "text": "Las cinco ventanas más comunes"
+        },
+        {
+          "type": "p",
+          "text": "Estas son las cinco que más se repiten en casi todas las casas. Toma la tuya y adapta lo demás."
+        },
+        {
+          "type": "h2",
+          "text": "La hora de dormir"
+        },
+        {
+          "type": "p",
+          "text": "Secuencia típica: baño, pijama, dientes, un cuento, luz baja."
+        },
+        {
+          "type": "p",
+          "text": "El aviso: «después de este cuento apagamos la luz», dicho antes de empezar el cuento, no al terminarlo."
+        },
+        {
+          "type": "p",
+          "text": "El error más común es negociar el número de cuentos cada noche. Si son dos, son dos siempre, y se dice cuántos son antes de empezar el primero."
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Hoy son dos cuentos. Este es el primero.»"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Las pantallas"
+        },
+        {
+          "type": "p",
+          "text": "La pantalla es distinta a todo lo demás, porque no tiene un final natural. Un cuento se acaba. Un video siempre tiene otro video."
+        },
+        {
+          "type": "p",
+          "text": "Por eso acá el temporizador no es opcional. Que la alarma anuncie el final, no tú."
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Cuando suene la alarma se apaga. Faltan cinco minutos.»"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Y una cosa más: la transición hacia dónde. Apagar la pantalla y dejarlo en el vacío garantiza el berrinche. Apagar y pasar a algo que ya está preparado en la mesa reduce muchísimo la pelea."
+        },
+        {
+          "type": "h2",
+          "text": "Las tareas"
+        },
+        {
+          "type": "p",
+          "text": "Hora fija, lugar fijo, sin pantallas en la mesa, y bloques cortos según la edad: unos diez minutos hacia los seis años, unos veinte hacia los diez."
+        },
+        {
+          "type": "p",
+          "text": "Empezar es lo difícil, no continuar. Por eso el ritual de arranque es lo que hay que fijar: sacar los cuadernos, un vaso de agua, sentarse. Siempre igual."
+        },
+        {
+          "type": "p",
+          "text": "Y tú al lado haciendo algo tuyo. No encima, revisando cada renglón."
+        },
+        {
+          "type": "h2",
+          "text": "Alistarse para el colegio"
+        },
+        {
+          "type": "p",
+          "text": "La mayor parte de esta pelea se gana la noche anterior. Ropa lista, maleta lista, lonchera lista. En la mañana no hay reserva para decidir nada, ni la tuya ni la de él."
+        },
+        {
+          "type": "p",
+          "text": "En la mañana funciona mejor una lista visible que una voz repitiendo. La lista no discute y no se cansa."
+        },
+        {
+          "type": "h2",
+          "text": "La hora de comer"
+        },
+        {
+          "type": "p",
+          "text": "Aviso diez minutos antes. Recoger los juguetes es parte de la secuencia, no una orden aparte. Sin pantallas en la mesa, incluidas las de los adultos."
+        },
+        {
+          "type": "p",
+          "text": "Y una regla que quita muchísima tensión: tú decides qué se sirve y a qué hora. Él decide cuánto come de lo que hay. Si peleas por la cantidad, vas a perder siempre, y de paso conviertes la comida en un campo de batalla que después cuesta años desarmar."
+        },
+        {
+          "type": "h2",
+          "text": "Una sola a la vez"
+        },
+        {
+          "type": "p",
+          "text": "Vas a querer arreglar las cinco. No lo hagas."
+        },
+        {
+          "type": "p",
+          "text": "Una ventana, dos semanas. Cuando esa esté instalada y ya casi no la pienses, sigues con la siguiente. Cinco rutinas nuevas el mismo lunes es la manera más segura de que ninguna sobreviva al viernes."
+        }
+      ]
+    },
+    {
+      "marker": "SEIS",
+      "id": "cap-6",
+      "num": "seis",
+      "kicker": "Capítulo seis",
+      "title": "Cuando hay otro adulto en la casa",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Casi todo lo que se dice sobre este tema es qué hacer cuando alguien te desautoriza delante del niño. Este capítulo es sobre lo otro: cómo lograr que no pase, que es un trabajo que se hace lejos del conflicto."
+        },
+        {
+          "type": "h2",
+          "text": "La conversación de diez minutos"
+        },
+        {
+          "type": "p",
+          "text": "No en el momento. Nunca en el momento. Con el niño dormido o fuera de la casa."
+        },
+        {
+          "type": "p",
+          "text": "Y tiene una regla que lo cambia todo: no se habla de lo que pasó. Se habla de qué se hace la próxima vez."
+        },
+        {
+          "type": "p",
+          "text": "La diferencia no es de tono, es de tema. «Anoche me dejaste sola otra vez» abre un juicio y el otro se va a defender. «¿Qué hacemos mañana cuando pida más tele?» abre un acuerdo."
+        },
+        {
+          "type": "h2",
+          "text": "Una regla, no todas"
+        },
+        {
+          "type": "p",
+          "text": "El error clásico es querer alinear la crianza entera en una conversación. Eso no termina en acuerdo, termina en pelea."
+        },
+        {
+          "type": "p",
+          "text": "Una sola regla. La de tu ventana número uno. Y con tres cosas definidas:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Qué se hace exactamente. «El televisor se apaga a las siete», no «hay que ser más firmes».",
+            "Quién lo dice esa semana.",
+            "Qué hace el otro mientras tanto. Casi siempre: nada, o ayudar con la transición."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Si el otro adulto no coopera"
+        },
+        {
+          "type": "p",
+          "text": "Puede que hables y no pase nada. Que siga cediendo, que siga diciendo que estás exagerando, que siga sacando el dulce del bolsillo."
+        },
+        {
+          "type": "p",
+          "text": "No puedes controlar eso. Puedes controlar tres cosas, y no son poca cosa:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Que tus reglas sean pocas y siempre las mismas. Un niño puede vivir perfectamente con dos adultos distintos, siempre que cada uno sea predecible. Lo que lo desorganiza no es la diferencia: es la inconsistencia dentro de una misma persona.",
+            "Que no discutan delante de él. Aunque el otro empiece, tú puedes no seguir. Salir del cuarto es una opción válida y no es abandonar.",
+            "Que tú no cedas para evitar el conflicto con el adulto. Ese es el camino por el que se pierde el límite y después es dificilísimo recuperarlo."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Si crías sola"
+        },
+        {
+          "type": "p",
+          "text": "Si es tu caso, este apartado es para ti."
+        },
+        {
+          "type": "p",
+          "text": "Criar sola tiene una trampa específica: no hay nadie que te releve cuando tu número está en 2. Y como no hay relevo, la escalera del capítulo uno empieza más arriba todos los días."
+        },
+        {
+          "type": "p",
+          "text": "Entonces el trabajo no es tener más paciencia. Es proteger la reserva. Tres cosas concretas:"
+        },
+        {
+          "type": "h2",
+          "text": "Una persona, no una red"
+        },
+        {
+          "type": "p",
+          "text": "No necesitas una red de apoyo entera, que además suena imposible. Necesitas una persona a la que puedas escribirle a las siete de la noche y decirle «hoy fue horrible» sin que te den consejos. Una."
+        },
+        {
+          "type": "h2",
+          "text": "La franja protegida"
+        },
+        {
+          "type": "p",
+          "text": "Mira tu ventana número uno. Casi siempre cae en el momento del día en que estás más vacía. Si hay una sola cosa que puedas cambiar de tu día, que sea comer algo o sentarte diez minutos antes de esa franja. No después. Antes."
+        },
+        {
+          "type": "h2",
+          "text": "Bajar el estándar a propósito"
+        },
+        {
+          "type": "p",
+          "text": "Los días malos, la comida puede ser lo más fácil que haya y la casa puede quedar desordenada. Nada de eso le hace daño a tu hijo. Lo que sí le hace daño es una mamá vacía tratando de sostener un estándar que nadie le está exigiendo salvo ella misma."
+        },
+        {
+          "type": "p",
+          "text": "Hay una diferencia entre vivir y sobrevivir, y muchas mujeres criando solas llevan años del lado equivocado de esa línea. Si te reconoces ahí, empieza por el capítulo dos y por los tres minutos. Nada más. Lo demás puede esperar."
+        }
+      ]
+    },
+    {
+      "marker": "SIETE",
+      "id": "cap-7",
+      "num": "siete",
+      "kicker": "Capítulo siete",
+      "title": "Lo que este libro no resuelve",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Un libro honesto tiene que decir dónde termina. Este termina acá."
+        },
+        {
+          "type": "h2",
+          "text": "Sobre el castigo físico"
+        },
+        {
+          "type": "p",
+          "text": "Hay mamás que pegan y que lo saben. Que castigan, gritan y alzan la mano, y que lo hacen del desespero, y que después piden perdón en silencio y se prometen que no vuelve a pasar."
+        },
+        {
+          "type": "p",
+          "text": "Si es tu caso, esto no va a ser un regaño."
+        },
+        {
+          "type": "p",
+          "text": "Lo primero, la información: en Colombia, la Ley 2089 de 2021 prohíbe el castigo físico, los tratos crueles, humillantes o degradantes y cualquier tipo de violencia como método de corrección, sanción o disciplina hacia niñas, niños y adolescentes. La misma ley contempla una estrategia pedagógica y de prevención orientada a promover alternativas de crianza y disciplina sin violencia."
+        },
+        {
+          "type": "p",
+          "text": "Lo segundo, lo que sabemos de cómo funciona: el golpe corta la conducta en el momento y por eso se siente eficaz. Pero no enseña qué hacer en lugar de eso, y con el tiempo aumenta la agresión en el niño, porque le enseña que cuando alguien está muy molesto, golpear es una opción disponible."
+        },
+        {
+          "type": "p",
+          "text": "Lo tercero, y es lo más útil: pegar casi nunca es una decisión. Es lo que pasa cuando alguien llega al final de su escalera sin recursos. Por eso este libro trabaja donde trabaja."
+        },
+        {
+          "type": "p",
+          "text": "Si esto te pasa, el capítulo dos y el capítulo cuatro son los tuyos. Y si te pasa seguido, o si te asusta la intensidad con la que te dan ganas, eso no se resuelve únicamente con un libro. Busca apoyo profesional. Pedir ayuda a tiempo también es una forma de protegerte a ti y de proteger a tu hijo."
+        },
+        {
+          "type": "h2",
+          "text": "Cuándo esto necesita a un profesional"
+        },
+        {
+          "type": "p",
+          "text": "Un ebook trabaja sobre la relación. No diagnostica ni reemplaza a nadie. Busca acompañamiento profesional si:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "La conducta aparece igual en la casa, en el colegio y con otras personas, y lleva más de seis meses.",
+            "Hay agresión que deja marcas, a otros o a sí mismo.",
+            "Hay retrocesos marcados: dejó de hablar, volvió a mojar la cama después de mucho tiempo, dejó de comer.",
+            "Hay sospecha o diagnóstico de autismo, TDAH u otra condición del desarrollo. Las herramientas de este libro pueden ayudar, pero necesitan adaptarse con alguien que conozca el caso.",
+            "Hubo un cambio grande: una separación, una muerte, un cambio de ciudad, un evento que lo asustó.",
+            "Tú misma llevas semanas sin poder dormir, sin ganas, o con la sensación de que no puedes más. Tu estado no es un tema aparte del de tu hijo.",
+            "Rutas en Colombia"
+          ]
+        },
+        {
+          "type": "table-raw",
+          "cells": [
+            "Dónde",
+            "Para qué",
+            "Línea 141 (ICBF)",
+            "Línea gratuita nacional para protección, emergencia y orientación ante situaciones que amenacen o afecten los derechos de niñas, niños y adolescentes. Disponible las 24 horas.",
+            "Línea 106 – Salud Mental",
+            "Servicio gratuito y confidencial de orientación en salud mental. Puedes llamar si necesitas apoyo emocional, estás en crisis, te sientes en riesgo o necesitas hablar con un profesional. Disponible 24/7.",
+            "Tu EPS o prestador de salud",
+            "Solicita orientación o valoración en pediatría, psicología u otro servicio pertinente cuando existan preocupaciones sobre el desarrollo, la conducta o la salud mental de tu hijo, o cuando tú necesites atención en salud mental.",
+            "Comisaría de Familia",
+            "La de tu municipio o localidad. Brinda atención, orientación y protección ante situaciones de violencia en el contexto familiar y puede activar las rutas correspondientes.",
+            "El colegio o jardín",
+            "Acude al equipo de orientación escolar cuando las dificultades aparecen en el contexto educativo o también necesitan acompañamiento desde allí.",
+            "Consultorios jurídicos virtuales",
+            "Asesoría legal gratuita, en línea, a cargo de universidades en todo el país. Útil para custodia, cuota de alimentos, separaciones, procesos de protección o cualquier duda legal que aparezca en el camino. El listado por región está en la página del Ministerio de Justicia: minjusticia.gov.co, sección LegalApp, Consultorios jurídicos virtuales.",
+            ""
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Si existe peligro inmediato para un niño, niña o adolescente, busca atención de emergencia y comunícate con las autoridades competentes."
+        },
+        {
+          "type": "p",
+          "text": "Este material brinda información general y no constituye asesoría jurídica. Ante una situación particular de violencia o posible vulneración de derechos, consulta a las autoridades o profesionales competentes."
+        },
+        {
+          "type": "p",
+          "text": "Pedir ayuda no significa que fallaste. Significa que estás haciendo lo que hay que hacer."
+        }
+      ]
+    },
+    {
+      "marker": "PARA CERRAR",
+      "id": "cierre",
+      "num": null,
+      "kicker": "Para cerrar",
+      "title": "Los próximos catorce días",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Todo junto es demasiado. Así que esto es lo único que tienes que hacer."
+        },
+        {
+          "type": "table-raw",
+          "cells": [
+            "Cuándo",
+            "Qué",
+            "Esta noche",
+            "Nombra tu escalón en voz alta, una vez. «Estoy cansada y me estoy poniendo de mal genio.»",
+            "Días 1 a 7",
+            "El registro del Mapa. Nada más. No cambies nada todavía, solo mira.",
+            "Día 7",
+            "Quince minutos con las hojas. Encuentra tu ventana número uno, es decir la situación que más veces se repitió, y tu número promedio en ella.",
+            "Días 8 a 14",
+            "Empiezan los quince minutos, cinco días de los siete. Y le armas una rutina ancla a esa ventana. Solo a esa.",
+            "Cuando pase",
+            "La reparación. No la practicas: la usas el día que grites. Y vas a gritar.",
+            "A los catorce días vuelve a mirar tu registro y compáralo con el de la primera semana. No busques que hayan desaparecido las peleas. Busca dos cosas más pequeñas y más reales: que sean menos en la ventana que trabajaste, y que tu número promedio haya subido aunque sea un punto."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Eso es todo. No hay más."
+        },
+        {
+          "type": "p",
+          "text": "Y una última cosa."
+        },
+        {
+          "type": "p",
+          "text": "Nada de este libro se trata de que seas más paciente. La paciencia no es un músculo que se entrena apretando los dientes, y decirte que te falta paciencia ha sido, probablemente, una de las cosas más injustas que te han dicho."
+        },
+        {
+          "type": "p",
+          "text": "Se trata de llegar al momento difícil con algo en las manos. Con una ventana identificada, con una relación que se alimenta fuera del conflicto, con una manera de volver después del grito, y con una estructura que decide por ti cuando ya no te queda con qué decidir."
+        },
+        {
+          "type": "p",
+          "text": "Eso no es tener más paciencia. Es necesitar menos."
+        }
+      ]
+    },
+    {
+      "marker": "HOJA DE REFERENCIA",
+      "id": "hoja",
+      "num": null,
+      "kicker": "Hoja de referencia",
+      "title": "Todo en una página",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Imprímela y pégala donde la veas."
+        },
+        {
+          "type": "h2",
+          "text": "Las cuatro herramientas"
+        },
+        {
+          "type": "table-raw",
+          "cells": [
+            "El Mapa de los 7 Días",
+            "Anoto cada conflicto: día y hora · situación · mi estado 1-10 · qué hice · cómo terminó. Al séptimo día encuentro mi VENTANA: la franja del día donde los conflictos se repiten con el mismo guion.",
+            "Los 15 Minutos",
+            "Él elige. Sin celular, sin preguntas, sin órdenes, sin correcciones. Narro lo que hace. Nunca se quitan como castigo.",
+            "La Reparación",
+            "Conmigo: nombro el hecho sin adjetivos y elijo una cosa concreta. Con él: reconozco sin justificar, nombro lo que sintió, digo qué haré distinto.",
+            "Las Rutinas Ancla",
+            "A mi ventana le pongo: secuencia fija · aviso que él pueda ver u oír · algo visible en la pared · dos semanas antes de juzgar si funciona. Una ventana a la vez.",
+            "Los tres recordatorios"
+          ]
+        },
+        {
+          "type": "table-raw",
+          "cells": [
+            "Mi escalón primero",
+            "No reacciono al vaso que se cayó. Reacciono a todo lo que ya venía cargando. Reviso en qué escalón estoy antes de responder.",
+            "La sorpresa es lo que pelea",
+            "Casi ningún conflicto es por el objeto. Es por el cambio sin aviso. Aviso siempre, con algo que él pueda ver o escuchar.",
+            "Volver es lo que enseña",
+            "Va a haber malos momentos. Lo que mi hijo aprende no es del momento malo: es de si después vuelvo o no.",
+            "Frases que sirven"
+          ]
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Estoy cansada y me estoy poniendo de mal genio. No es por ti.»"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "«Sé que te encanta. Y aun así, ahora toca guardar.» (Nunca «pero»: «pero» borra todo lo anterior.)"
+        },
+        {
+          "type": "say",
+          "lines": [
+            "«Cuando suene la alarma se apaga. Faltan cinco minutos.»",
+            "«Te grité y eso no estuvo bien. Te asustaste. La próxima vez te aviso antes.»",
+            "«Se acabaron los quince minutos. Mañana volvemos, a la misma hora.»",
+            "«Dale, ahora lo hablamos nosotros dos.»"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Red Vínculo"
+        },
+        {
+          "type": "p",
+          "text": "Este material es de acompañamiento y educación para familias. No sustituye una valoración ni un tratamiento profesional ni constituye asesoría jurídica. Si algo de lo que estás viviendo te preocupa, busca ayuda. En Colombia, la Línea 141 del ICBF atiende gratis las 24 horas para protección, emergencia y orientación; la Línea 106 brinda orientación gratuita y confidencial en salud mental, 24/7."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="352" cy="46" r="128" stroke="#EADCC8" stroke-width="2" opacity=".38"/>
+<circle cx="258" cy="80" r="86" stroke="#EADCC8" stroke-width="2" opacity=".5"/>
+<path d="M146,268 C192,250 214,178 338,128" stroke="#EADCC8" stroke-width="2.2" opacity=".9"/>
+<g transform="translate(171.7,251.3) rotate(-87.4)"><path d="M0,0 C8.8,-11.0 19.2,-7.9 26.0,0 C19.2,7.9 8.8,11.0 0,0 Z" stroke="#EADCC8" stroke-width="1.8" opacity=".9"/></g>
+<g transform="translate(200.6,222.4) rotate(-0.1)"><path d="M0,0 C8.3,-10.3 18.1,-7.4 24.4,0 C18.1,7.4 8.3,10.3 0,0 Z" stroke="#EADCC8" stroke-width="1.8" opacity=".9"/></g>
+<g transform="translate(237.9,187.0) rotate(-85.9)"><path d="M0,0 C7.8,-9.6 16.9,-6.9 22.8,0 C16.9,6.9 7.8,9.6 0,0 Z" stroke="#EADCC8" stroke-width="1.8" opacity=".9"/></g>
+<g transform="translate(291.6,150.1) rotate(16.8)"><path d="M0,0 C7.2,-8.9 15.7,-6.4 21.2,0 C15.7,6.4 7.2,8.9 0,0 Z" stroke="#EADCC8" stroke-width="1.8" opacity=".9"/></g>
+<circle cx="34" cy="214" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="34" cy="227" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="34" cy="240" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="47" cy="214" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="47" cy="227" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="47" cy="240" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="60" cy="214" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="60" cy="227" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="60" cy="240" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="73" cy="214" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="73" cy="227" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="73" cy="240" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="86" cy="214" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="86" cy="227" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+<circle cx="86" cy="240" r="1.9" fill="#EADCC8" stroke="none" opacity=".4"/>
+</svg>

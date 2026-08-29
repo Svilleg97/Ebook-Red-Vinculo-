@@ -1,0 +1,48 @@
+/* ============================================================
+   Red Vínculo · fichas de diseño
+   Paleta del brandbook. Contrastes medidos contra fondo hueso.
+   ============================================================ */
+:root {
+  /* Color */
+  --terracota:        #A8563F;  /* 4.71 sobre hueso · 5.16 con blanco encima */
+  --terracota-claro:  #D28C72;  /* solo grafismo, nunca texto */
+  --arena:            #EADCC8;
+  --arena-clara:      #F1EAE0;
+  --tinta:            #3F342E;  /* 10.99 sobre hueso */
+  --tinta-suave:      #6B5C52;
+  --salvia:           #8FA48E;  /* grafismo y fondos, texto solo en tinta */
+  --hueso:            #F7F4EF;
+  --linea:            #DFD5C9;
+  --blanco:           #FFFFFF;
+
+  /* Geometría de página */
+  --pagina-ancho:  148mm;
+  --pagina-alto:   210mm;
+  --margen-lado:    14mm;
+  --margen-alto:    14mm;
+  --margen-pie:     16mm;
+  --columna: calc(var(--pagina-ancho) - var(--margen-lado) * 2);
+
+  /* Tipografía */
+  --titular: 'Fraunces', Georgia, serif;
+  --lectura: 'Lora', Georgia, serif;
+  --apoyo:   'Mulish', -apple-system, Helvetica, sans-serif;
+
+  --recoleta: 'opsz' 20, 'SOFT' 100, 'WONK' 0;  /* el ajuste que más se acerca a Recoleta */
+
+  --t-portada:  40pt;
+  --t-apertura: 30pt;
+  --t-h2:       17pt;
+  --t-h3:       13pt;
+  --t-cuerpo:   11.5pt;
+  --t-cita:     19pt;
+  --t-voz:      12.5pt;
+  --t-tabla:    9.5pt;
+  --t-etiqueta: 8.5pt;
+  --t-folio:    8pt;
+
+  --interlinea: 1.62;
+
+  /* Ritmo vertical, base de 2mm */
+  --e1: 2mm;  --e2: 4mm;  --e3: 6mm;  --e4: 9mm;  --e5: 14mm;
+}

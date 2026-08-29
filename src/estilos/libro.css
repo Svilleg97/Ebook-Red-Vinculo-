@@ -1,0 +1,368 @@
+/* ============================================================
+   Red Vínculo · sistema editorial
+   ============================================================ */
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+body {
+  margin: 0;
+  background: #C9C1B6;
+  font-family: var(--lectura);
+  font-size: var(--t-cuerpo);
+  line-height: var(--interlinea);
+  color: var(--tinta);
+  text-rendering: geometricPrecision;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures;
+}
+
+/* ---------- Página ---------- */
+.pagina {
+  position: relative;
+  width: var(--pagina-ancho);
+  height: var(--pagina-alto);
+  margin: 0 auto;
+  background: var(--hueso);
+  overflow: hidden;
+  break-after: page;
+  page-break-after: always;
+}
+.pagina:last-child { break-after: auto; page-break-after: auto; }
+
+.caja {
+  position: absolute;
+  inset: var(--margen-alto) var(--margen-lado) var(--margen-pie);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Página oscura, para portada y aperturas fuertes */
+.pagina--terracota { background: var(--terracota); color: var(--hueso); }
+.pagina--arena     { background: var(--arena); }
+
+/* ---------- Folio ---------- */
+.folio {
+  position: absolute;
+  left: var(--margen-lado);
+  right: var(--margen-lado);
+  bottom: 8mm;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-family: var(--apoyo);
+  font-size: var(--t-folio);
+  font-weight: 500;
+  letter-spacing: .04em;
+  color: var(--tinta-suave);
+}
+.folio__marca { opacity: .75; }
+.folio__num { font-variant-numeric: tabular-nums; font-weight: 600; }
+.pagina--terracota .folio { color: rgba(247,244,239,.7); }
+
+/* ---------- Jerarquía ---------- */
+.kicker {
+  font-family: var(--apoyo);
+  font-size: var(--t-etiqueta);
+  font-weight: 700;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+  color: var(--terracota);
+  margin: 0 0 var(--e2);
+}
+.pagina--terracota .kicker { color: var(--arena); }
+
+h1, h2, h3 { font-family: var(--titular); font-variation-settings: var(--recoleta); font-weight: 600; }
+
+h1 {
+  font-size: var(--t-apertura);
+  line-height: 1.06;
+  letter-spacing: -.008em;
+  margin: 0;
+  color: var(--tinta);
+}
+h2 {
+  font-size: var(--t-h2);
+  line-height: 1.2;
+  margin: 7mm 0 3mm;
+  color: var(--tinta);
+  break-after: avoid;
+  page-break-after: avoid;
+}
+h3 {
+  font-size: var(--t-h3);
+  line-height: 1.25;
+  margin: 5mm 0 1.6mm;
+  color: var(--terracota);
+  break-after: avoid;
+  page-break-after: avoid;
+}
+h2:first-child, h3:first-child { margin-top: 0; }
+
+p { margin: 0 0 3.2mm; orphans: 2; widows: 2; }
+p.entrada::first-letter { font-family: var(--titular); font-variation-settings: var(--recoleta); }
+strong { font-weight: 600; color: var(--terracota); }
+em { font-style: italic; }
+
+/* ---------- Listas ---------- */
+ul { list-style: none; margin: 0 0 var(--e2); padding: 0; }
+ul li {
+  position: relative;
+  padding-left: 6mm;
+  margin-bottom: var(--e1);
+  orphans: 2; widows: 2;
+}
+ul li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: .55em;
+  width: 1.6mm;
+  height: 1.6mm;
+  border: .35mm solid var(--terracota);
+  border-radius: 50%;
+}
+
+/* ---------- Voz en alto: lo que la mamá dice ---------- */
+.voz {
+  background: var(--arena-clara);
+  border-left: .9mm solid var(--terracota);
+  padding: 5mm;
+  margin: 5mm 0;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.voz p {
+  font-size: var(--t-voz);
+  font-style: italic;
+  line-height: 1.45;
+  margin: 0 0 var(--e1);
+}
+.voz p:last-child { margin-bottom: 0; }
+
+/* ---------- Cita destacada ---------- */
+.cita {
+  font-family: var(--lectura);
+  font-style: italic;
+  font-size: var(--t-cita);
+  line-height: 1.34;
+  color: var(--terracota);
+  margin: 7mm 0;
+  padding-top: 5mm;
+  border-top: .4mm solid var(--linea);
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+/* ---------- Caja de práctica ---------- */
+.practica {
+  background: var(--arena);
+  padding: 7mm;
+  margin: 7mm 0 5mm;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.practica h2, .practica h3 { margin-top: 0; }
+.practica > :last-child { margin-bottom: 0; }
+
+/* ---------- Tablas ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--apoyo);
+  font-size: var(--t-tabla);
+  line-height: 1.42;
+  margin: var(--e3) 0;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+thead th {
+  background: var(--terracota);
+  color: var(--blanco);
+  font-size: var(--t-etiqueta);
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 2.6mm 3mm;
+}
+tbody td {
+  padding: 2.8mm 3mm;
+  border-bottom: .25mm solid var(--linea);
+  vertical-align: top;
+}
+tbody tr:nth-child(odd) td { background: var(--arena-clara); }
+tbody tr:last-child td { border-bottom: 0; }
+td.clave { font-weight: 700; color: var(--tinta); white-space: nowrap; }
+table.tabla--ancha td.clave { white-space: normal; }
+
+/* ---------- Hoja de registro para llenar ---------- */
+.registro { table-layout: fixed; }
+.registro thead th { font-size: 7.5pt; padding: 2.4mm 2mm; }
+.registro tbody td {
+  height: 8.4mm;
+  background: transparent;
+  border-bottom: .25mm solid var(--linea);
+  border-right: .25mm solid var(--linea);
+}
+.registro tbody td:last-child { border-right: 0; }
+.registro tbody tr:nth-child(odd) td { background: rgba(234,220,200,.32); }
+
+/* ---------- Campos para escribir ---------- */
+.campo { margin: var(--e3) 0; }
+.campo__label { font-size: var(--t-cuerpo); margin: 0 0 var(--e2); }
+.campo__linea {
+  border-bottom: .3mm dotted var(--tinta-suave);
+  height: 7mm;
+}
+.campos-linea { display: flex; gap: var(--e4); margin: var(--e3) 0; }
+.campos-linea > div { flex: 1; }
+.campos-linea span { font-size: var(--t-cuerpo); }
+
+/* ---------- Lista de definiciones de la hoja de referencia ---------- */
+.deflist { margin: var(--e3) 0; }
+.deflist__item {
+  display: grid;
+  grid-template-columns: 34mm 1fr;
+  gap: var(--e3);
+  padding: var(--e2) 0;
+  border-top: .25mm solid var(--linea);
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.deflist__item:last-child { border-bottom: .25mm solid var(--linea); }
+.deflist__term {
+  font-family: var(--titular);
+  font-variation-settings: var(--recoleta);
+  font-weight: 600;
+  font-size: 11.5pt;
+  line-height: 1.2;
+  color: var(--terracota);
+}
+.deflist__def { font-size: 10pt; line-height: 1.5; }
+.deflist__def ul { margin: var(--e1) 0; }
+.deflist__def li { margin-bottom: 0; padding-left: 4.5mm; }
+.deflist__def li::before { top: .5em; width: 1.3mm; height: 1.3mm; }
+
+/* ---------- Utilidades ---------- */
+.crece { flex: 1; }
+.centro { text-align: center; }
+.filete { width: 16mm; height: .6mm; background: var(--terracota); border: 0; margin: 0 0 var(--e3); }
+.nota { font-size: 9pt; color: var(--tinta-suave); line-height: 1.5; }
+.suelto { break-inside: avoid; page-break-inside: avoid; }
+
+/* ---------- Marca ---------- */
+.marca-icono { display: block; }
+.marca-logo  { display: block; }
+
+/* La hoja para llenar conserva el filete de la última fila */
+.registro tbody tr:last-child td { border-bottom: .25mm solid var(--linea); }
+
+/* ============================================================
+   Portada y aperturas de capítulo
+   ============================================================ */
+.portada { justify-content: flex-start; }
+.portada__aire { flex: 1.15; }
+.portada__aire--bajo { flex: .5; }
+.portada__logo { width: 46mm; }
+.portada h1 { font-size: var(--t-portada); color: var(--hueso); line-height: 1.02; }
+.portada h1 em { font-style: normal; color: var(--arena); }
+.portada__sub {
+  font-size: 12pt; line-height: 1.45;
+  color: rgba(247,244,239,.88);
+  max-width: 78mm; margin: var(--e3) 0 0;
+}
+.portada__filete { width: 20mm; height: .8mm; background: var(--arena); margin: 0 0 var(--e3); border: 0; }
+.firma {
+  font-family: var(--apoyo); font-size: 8pt; font-weight: 700;
+  letter-spacing: .22em; text-transform: uppercase;
+  color: rgba(247,244,239,.75);
+  display: flex; gap: 7mm; margin: 0;
+}
+
+.apertura { justify-content: flex-end; }
+.apertura__arte { flex: 1; display: flex; align-items: center; justify-content: center; margin-bottom: var(--e5); }
+.apertura__arte svg, .apertura__arte img { width: 100%; height: auto; }
+.apertura__tag {
+  align-self: flex-start;
+  font-family: var(--apoyo); font-size: 8pt; font-weight: 700;
+  letter-spacing: .12em; text-transform: uppercase;
+  color: var(--blanco); background: var(--terracota);
+  padding: 1.6mm 3.4mm; margin-bottom: var(--e3);
+}
+.apertura h1 { max-width: 96mm; }
+.apertura__pie { font-size: 11pt; color: var(--tinta-suave); max-width: 88mm; margin: var(--e3) 0 5mm; line-height: 1.5; }
+
+/* ---------- Arte de portada, sangra por el borde ---------- */
+.portada__arte {
+  position: absolute;
+  top: -6mm; right: -18mm;
+  width: 132mm;
+  opacity: .95;
+  pointer-events: none;
+}
+.portada .caja { z-index: 1; }
+
+/* ---------- Índice ---------- */
+.indice { margin: var(--e4) 0 0; }
+.indice__fila {
+  display: grid;
+  grid-template-columns: 13mm 1fr 10mm;
+  align-items: baseline;
+  gap: var(--e2);
+  padding: 2.6mm 0;
+  border-bottom: .25mm solid var(--linea);
+}
+.indice__fila:first-child { border-top: .25mm solid var(--linea); }
+.indice__num {
+  font-family: var(--titular); font-variation-settings: var(--recoleta);
+  font-weight: 600; font-size: 10pt; color: var(--terracota);
+}
+.indice__tit { font-size: 11pt; line-height: 1.3; }
+.indice__tag {
+  display: block; font-family: var(--lectura); font-style: italic;
+  font-size: 9.5pt; color: var(--tinta-suave); margin-top: .4mm;
+}
+.indice__pag {
+  font-family: var(--apoyo); font-size: 9.5pt; font-weight: 600;
+  text-align: right; font-variant-numeric: tabular-nums; color: var(--tinta-suave);
+}
+
+/* ---------- Contraportada ---------- */
+.contra__arte {
+  position: absolute; left: -30mm; bottom: -24mm; width: 96mm;
+  opacity: .3; transform: rotate(180deg); pointer-events: none;
+}
+.contra { align-items: center; justify-content: center; text-align: center; }
+.contra__logo { width: 52mm; margin-bottom: var(--e5); }
+.contra__firma {
+  font-family: var(--apoyo); font-size: 8pt; font-weight: 700;
+  letter-spacing: .22em; text-transform: uppercase;
+  color: rgba(247,244,239,.75); margin: 0 0 var(--e4);
+  display: flex; gap: 6mm;
+}
+.contra__web {
+  font-family: var(--titular); font-variation-settings: var(--recoleta);
+  font-weight: 600; font-size: 15pt; color: var(--hueso); margin: 0;
+}
+.contra__legal {
+  position: absolute; left: var(--margen-lado); right: var(--margen-lado); bottom: 12mm;
+  font-family: var(--apoyo); font-size: 7.5pt; line-height: 1.5;
+  color: rgba(247,244,239,.6); text-align: center; margin: 0;
+}
+
+/* ---------- Cierre del libro ---------- */
+.cierre-libro {
+  margin-top: 10mm; padding-top: 7mm;
+  border-top: .25mm solid var(--linea);
+  text-align: center;
+  break-inside: avoid; page-break-inside: avoid;
+}
+.cierre-libro__icono { width: 13mm; margin: 0 auto 3mm; display: block; }
+.cierre-libro__marca {
+  font-family: var(--titular); font-variation-settings: var(--recoleta);
+  font-weight: 600; font-size: 13pt; color: var(--terracota);
+  margin: 0 0 4mm;
+}
+.cierre-libro .nota { max-width: 96mm; margin: 0 auto; text-align: left; }

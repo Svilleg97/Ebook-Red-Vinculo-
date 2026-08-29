@@ -1,0 +1,29 @@
+/* Tipografias locales. Sin llamados a internet. */
+@font-face {
+  font-family: 'Fraunces';
+  src: url('Fraunces.ttf') format('truetype-variations');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'Lora';
+  src: url('Lora.ttf') format('truetype-variations');
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'Lora';
+  src: url('Lora-Italic.ttf') format('truetype-variations');
+  font-weight: 400 700;
+  font-style: italic;
+  font-display: block;
+}
+@font-face {
+  font-family: 'Mulish';
+  src: url('Mulish.ttf') format('truetype-variations');
+  font-weight: 200 1000;
+  font-style: normal;
+  font-display: block;
+}

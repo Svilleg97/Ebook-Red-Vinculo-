@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="92" y="42" width="216" height="176" rx="10" fill="#EADCC8" stroke="none" opacity=".55"/>
+<rect x="92" y="42" width="216" height="176" rx="10" stroke="#A8563F" stroke-width="2.2"/>
+<circle cx="131.48000000000002" cy="80.8" r="2.6" stroke="#A8563F" stroke-width="1.3" opacity=".45"/>
+<circle cx="145.48000000000002" cy="80.8" r="2.6" stroke="#A8563F" stroke-width="1.3" opacity=".45"/>
+<circle cx="159.48000000000002" cy="80.8" r="2.6" stroke="#A8563F" stroke-width="1.3" opacity=".45"/>
+<circle cx="173.48000000000002" cy="80.8" r="2.6" stroke="#A8563F" stroke-width="1.3" opacity=".45"/>
+<circle cx="131.48000000000002" cy="94.8" r="3.2" fill="#A8563F" stroke="none"/>
+<circle cx="145.48000000000002" cy="94.8" r="3.2" fill="#A8563F" stroke="none"/>
+<circle cx="159.48000000000002" cy="94.8" r="3.2" fill="#A8563F" stroke="none"/>
+<circle cx="173.48000000000002" cy="94.8" r="3.2" fill="#A8563F" stroke="none"/>
+<circle cx="131.48000000000002" cy="108.8" r="2.6" stroke="#A8563F" stroke-width="1.3" opacity=".45"/>
+<circle cx="145.48000000000002" cy="108.8" r="2.6" stroke="#A8563F" stroke-width="1.3" opacity=".45"/>
+<circle cx="159.48000000000002" cy="108.8" r="2.6" stroke="#A8563F" stroke-width="1.3" opacity=".45"/>
+<circle cx="173.48000000000002" cy="108.8" r="2.6" stroke="#A8563F" stroke-width="1.3" opacity=".45"/>
+<circle cx="247.51999999999998" cy="94.8" r="22" stroke="#A8563F" stroke-width="2"/>
+<path d="M247.51999999999998,72.8 A22,22 0 0 1 269.52,94.8" stroke="#A8563F" stroke-width="4"/>
+<circle cx="247.51999999999998" cy="94.8" r="2.4" fill="#A8563F" stroke="none"/>
+<path d="M126.48000000000002,176.72 C138.48000000000002,176.72 142.48000000000002,164.72 150.48000000000002,162.72" stroke="#A8563F" stroke-width="2.4"/>
+<path d="M162.48000000000002,158.72 C170.48000000000002,156.72 174.48000000000002,166.72 180.48000000000002,168.72" stroke="#D28C72" stroke-width="2.4"/>
+<path d="M150.48000000000002,162.72 C153.48000000000002,146.72 161.48000000000002,144.72 162.48000000000002,158.72" stroke="#A8563F" stroke-width="1.8" stroke-dasharray="1.2 5"/>
+<circle cx="150.48000000000002" cy="162.72" r="3" fill="#A8563F" stroke="none"/>
+<circle cx="162.48000000000002" cy="158.72" r="3" fill="#A8563F" stroke="none"/>
+<path d="M217.51999999999998,168.72 C222.51999999999998,157.72 233.51999999999998,179.72 238.51999999999998,168.72 C243.51999999999998,157.72 254.51999999999998,179.72 259.52,168.72 C264.52,157.72 275.52,179.72 280.52,168.72" stroke="#A8563F" stroke-width="2.2"/>
+<circle cx="217.51999999999998" cy="168.72" r="3" fill="#A8563F" stroke="none"/>
+<circle cx="238.51999999999998" cy="168.72" r="3" fill="#A8563F" stroke="none"/>
+<circle cx="259.52" cy="168.72" r="3" fill="#A8563F" stroke="none"/>
+<circle cx="280.52" cy="168.72" r="3" fill="#A8563F" stroke="none"/>
+</svg>
